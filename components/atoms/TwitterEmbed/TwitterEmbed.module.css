@@ -1,7 +1,0 @@
-.twitterEmbed {
-  @apply mb-8;
-
-  & .caption {
-    @apply text-center text-xs pt-4;
-  }
-}
